@@ -16,3 +16,10 @@ releases:
     - 14-docs-fqcn.yaml
     - 3-sanity-docs-fixes.yaml
     release_date: '2020-08-17'
+  1.1.0:
+    changes:
+      major_changes:
+      - we got this awesome new feature
+    fragments:
+    - exciting_new_feature.yml
+    release_date: '2021-03-25'

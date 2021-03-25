@@ -5,6 +5,14 @@ Community DigitalOcean Release Notes
 .. contents:: Topics
 
 
+v1.1.0
+======
+
+Major Changes
+-------------
+
+- we got this awesome new feature
+
 v1.0.0
 ======
 
